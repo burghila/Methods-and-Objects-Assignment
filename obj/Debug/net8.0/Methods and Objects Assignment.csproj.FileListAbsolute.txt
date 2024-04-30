@@ -1,0 +1,14 @@
+C:\Users\burgh\Desktop\Methods and Objects Assignment\Methods and Objects Assignment\bin\Debug\net8.0\Methods and Objects Assignment.exe
+C:\Users\burgh\Desktop\Methods and Objects Assignment\Methods and Objects Assignment\bin\Debug\net8.0\Methods and Objects Assignment.deps.json
+C:\Users\burgh\Desktop\Methods and Objects Assignment\Methods and Objects Assignment\bin\Debug\net8.0\Methods and Objects Assignment.runtimeconfig.json
+C:\Users\burgh\Desktop\Methods and Objects Assignment\Methods and Objects Assignment\bin\Debug\net8.0\Methods and Objects Assignment.dll
+C:\Users\burgh\Desktop\Methods and Objects Assignment\Methods and Objects Assignment\bin\Debug\net8.0\Methods and Objects Assignment.pdb
+C:\Users\burgh\Desktop\Methods and Objects Assignment\Methods and Objects Assignment\obj\Debug\net8.0\Methods and Objects Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burgh\Desktop\Methods and Objects Assignment\Methods and Objects Assignment\obj\Debug\net8.0\Methods and Objects Assignment.AssemblyInfoInputs.cache
+C:\Users\burgh\Desktop\Methods and Objects Assignment\Methods and Objects Assignment\obj\Debug\net8.0\Methods and Objects Assignment.AssemblyInfo.cs
+C:\Users\burgh\Desktop\Methods and Objects Assignment\Methods and Objects Assignment\obj\Debug\net8.0\Methods and Objects Assignment.csproj.CoreCompileInputs.cache
+C:\Users\burgh\Desktop\Methods and Objects Assignment\Methods and Objects Assignment\obj\Debug\net8.0\Methods and Objects Assignment.dll
+C:\Users\burgh\Desktop\Methods and Objects Assignment\Methods and Objects Assignment\obj\Debug\net8.0\refint\Methods and Objects Assignment.dll
+C:\Users\burgh\Desktop\Methods and Objects Assignment\Methods and Objects Assignment\obj\Debug\net8.0\Methods and Objects Assignment.pdb
+C:\Users\burgh\Desktop\Methods and Objects Assignment\Methods and Objects Assignment\obj\Debug\net8.0\Methods and Objects Assignment.genruntimeconfig.cache
+C:\Users\burgh\Desktop\Methods and Objects Assignment\Methods and Objects Assignment\obj\Debug\net8.0\ref\Methods and Objects Assignment.dll
